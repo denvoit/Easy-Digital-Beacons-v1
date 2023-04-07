@@ -282,6 +282,8 @@ Replace the original `FST4Wsymbols` array data with the output of
 
 #### References + Credits
 
+- https://github.com/kholia/Si5351-Module-Clone-TCXO/ (use this module - it rocks!)
+
 - https://github.com/kholia/Easy-Transceiver
 
 - https://github.com/kgoba/ft8_lib
