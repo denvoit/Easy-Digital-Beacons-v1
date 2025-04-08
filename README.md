@@ -27,7 +27,7 @@ If you are using Windows OS, execute the following steps:
 
 - Install https://github.com/me-no-dev/ESPAsyncWebServer library.
 
-- Install https://github.com/me-no-dev/ESPAsyncTC library.
+- Install https://github.com/me-no-dev/ESPAsyncTCP library.
 
 If you are on Linux, execute the following steps:
 
